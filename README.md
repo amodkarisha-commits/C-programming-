@@ -171,3 +171,17 @@ pool.enqueue([b, &raw, &comp_blocks, …]() {
 ```
 A `std::atomic<size_t> done` counter is polled (with microsecond sleeps) until
 all N blocks complete before the pool is destroyed.
+---------------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+🔗DISCRIPTION OF ENTIRE INTERSHIP TASKS
+
+This repository contains the complete solutions for the CODTECH C++ Internship Tasks. The project includes implementations of all four assigned tasks with proper code structure, comments, and functionality demonstration.
+
+Implemented Tasks:
+
+1. File Management Tool – Developed a C++ application capable of reading, writing, and appending data to text files using file handling concepts.
+2. Multithreaded File Compression Tool – Created a compression and decompression utility using multithreading techniques to improve execution performance.
+3. Snake Game – Designed and developed a graphical Snake game using C++ libraries with interactive gameplay, increasing difficulty levels, and sound effects.
+4. Compiler Design Basics – Implemented a basic compiler that parses and evaluates arithmetic expressions efficiently.
+
+All tasks are organized systematically in this repository along with source code, output screenshots, and required documentation. Proper commenting standards and coding practices have been followed throughout the project.
